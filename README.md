@@ -1,6 +1,6 @@
 # MetaCoin_Trufflebox
 
 </br>Trufflebox Metacoin
-# ERC20 compliant
-Ethereum token
-Solidity
+</br>ERC20 compliant
+</br>Ethereum token
+</br>Solidity
